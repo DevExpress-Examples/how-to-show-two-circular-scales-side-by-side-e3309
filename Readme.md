@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/SideBySideScales/MainPage.xaml) (VB: [MainPage.xaml](./VB/SideBySideScales/MainPage.xaml))
+<!-- default file list end -->
 # How to show two circular scales side-by-side
 
 
